@@ -1,0 +1,47 @@
+{
+    "name": "cpp-devel-vscode-extension",
+    "displayName": "Cross C++ MS to Linux Extension Pack",
+    "description": "Cross development with vscode for ms to linux",
+    "version": "0.0.1",
+    "publisher": "debdanfli",
+    "engines": {
+      "vscode": "^1.70.0"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+      "color": "#222222",
+      "theme": "dark"
+    },
+    "keywords": [
+      "cpp",
+      "basis-vscode",
+      "tools"
+    ],
+    "categories": [
+      "Extension Packs"
+    ],
+    "repository": {
+      "url": "https://github.com/debdanfli/cpp-devel-vscode-extension"
+    },
+    "homepage": "https://github.com/debdanfli/cpp-devel-vscode-extension",
+    "bugs": {
+      "url": "https://github.com/debdanfli/cpp-devel-vscode-extension/issues"
+    },
+    "extensionPack": [
+      "ms-vscode-remote.remote-wsl",
+      "ms-vscode-remote.remote-ssh-edit",
+      "ms-vscode-remote.remote-ssh",
+      "ms-vscode-remote.remote-containers",
+      "ms-vscode.cpptools-extension-pack",
+      "matepek.vscode-catch2-test-adapter",
+      "adpyke.codesnap",
+      "ms-azuretools.vscode-docker",
+      "VisualStudioExptTeam.vscodeintellicode",
+      "yzhang.markdown-all-in-one",
+      "esbenp.prettier-vscode",
+      "xaver.clang-format",
+      "notskm.clang-tidy",
+      "mdickin.markdown-shortcuts",
+      "christian-kohler.path-intellisense"
+    ]
+  }
