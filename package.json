@@ -42,6 +42,7 @@
       "xaver.clang-format",
       "notskm.clang-tidy",
       "mdickin.markdown-shortcuts",
-      "christian-kohler.path-intellisense"
+      "christian-kohler.path-intellisense",
+      "vscode-icons-team.vscode-icons"
     ]
   }
