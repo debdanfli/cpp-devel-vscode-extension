@@ -2,7 +2,7 @@
     "name": "cpp-devel-vscode-extension",
     "displayName": "Cross C++ MS to Linux Extension Pack",
     "description": "Cross development with vscode for ms to linux",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "debdanfli",
     "engines": {
       "vscode": "^1.70.0"
@@ -43,6 +43,10 @@
       "notskm.clang-tidy",
       "mdickin.markdown-shortcuts",
       "christian-kohler.path-intellisense",
-      "vscode-icons-team.vscode-icons"
+      "vscode-icons-team.vscode-icons",
+      "cschlosser.doxdocgen",
+      "usernamehw.errorlens",
+      "hykin.better-cpp-syntax",
+      "aaron-bond.better-comments"
     ]
   }
