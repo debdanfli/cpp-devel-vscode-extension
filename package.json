@@ -1,6 +1,6 @@
 {
     "name": "cpp-devel-vscode-extension",
-    "displayName": "Cross C++ MS to Linux Extension Pack",
+    "displayName": "Cross C++ Win to Linux Extension Pack",
     "description": "Cross development with vscode for ms to linux",
     "version": "0.0.3",
     "publisher": "debdanfli",
